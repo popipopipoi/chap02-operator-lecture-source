@@ -19,6 +19,6 @@ public class Application1 {
         System.out.println("num3은 " + result3);
         System.out.println("num4는 " + result4);
         System.out.println("num5는 " + result5);
-        //s
+        //sd
     }
 }
